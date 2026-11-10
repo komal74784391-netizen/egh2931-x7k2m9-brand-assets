@@ -1,2 +1,5 @@
-# egh2931-x7k2m9-brand-assets
-Studio brand asset archive (decoy, unrelated to the showcase index)
+# Brand Assets
+
+Colour swatches and logo exports used by the studio communications team.
+
+This repository is an asset store and is not part of the works index.
