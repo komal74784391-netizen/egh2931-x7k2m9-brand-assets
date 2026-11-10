@@ -2,4 +2,4 @@
 
 Colour swatches and logo exports used by the studio communications team.
 
-This repository is an asset store and is not part of the works index.
+This repository stores design assets only and is unrelated to the works index.
